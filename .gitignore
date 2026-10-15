@@ -1,0 +1,9 @@
+# Ignore installed dependencies in each Vite project
+CareerConnect/node_modules/
+EventEase/node_modules/
+LibraryPro/node_modules/
+MediSlot/node_modules/
+ShopSphere/node_modules/
+
+# Optional: ignore local build output if generated
+**/dist/
